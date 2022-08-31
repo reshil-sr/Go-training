@@ -1,0 +1,3 @@
+# GOTraining
+
+GO Training Assignments
